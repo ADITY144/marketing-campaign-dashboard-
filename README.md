@@ -38,7 +38,7 @@ Cost, ROI, Engagement Score, Location, and Date across 2021.
 Python (Pandas) | Power BI | DAX | Data Modeling | Power Query
 
 ## 📸 Dashboard Preview
-![Dashboard](images/dashboard_overview.png)
+![Dashboard]![Dashboard](dashboard_overview.png)
 
 ## 🚀 How to Run
 1. Clone this repo
